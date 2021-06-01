@@ -1,4 +1,4 @@
-# всем привет 👋
+# Всем привет 👋
 
 ## Начинающий Фронтент-разработчик
 
@@ -6,6 +6,14 @@
 * :books: Изучаю JS и сопутствующие технологии по фронтенду, практикую HTML и CSS.
 * :dart: Текущая задача - Frontend-разработчик (Junior).
 * :telescope: Задача на ближайшие 2 года - поднять практический уровень знаний Frontend до Middle.
+
+## Мои контакты:
+* [Telegram](https://t.me/Gurd_da)
+* [VK](https://vk.com/gurd_da)
+* [Instagram](https://www.instagram.com/gurd_da)
+* [E-Mail](mailto:dasholudko@gmail.com)
+
+## 
 
 <!--
 **Gurd4/Gurd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
